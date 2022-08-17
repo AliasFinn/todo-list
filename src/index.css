@@ -1,3 +1,7 @@
+html * {
+  font-family: Helvetica, sans-serif;
+}
+
 .App {
   text-align: center;
 }
